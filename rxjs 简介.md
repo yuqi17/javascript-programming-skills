@@ -14,5 +14,11 @@ subscription = observable.subscribe 这个就是订阅，它是可以随时取�
 基本概念如下：
 (https://cn.rx.js.org/manual/overview.html)[https://cn.rx.js.org/manual/overview.html]
 
+操作符的动态图解释：
+(https://zhuanlan.zhihu.com/p/39359316)[https://zhuanlan.zhihu.com/p/39359316]
+
+贪吃蛇游戏应用场景：
+(https://stackblitz.com/edit/reactive-snake?file=main.ts)[https://stackblitz.com/edit/reactive-snake?file=main.ts]
+
 这个东西它属于一种新的编程范式：响应式编程：一切都是流，跟函数式编程，面向对象编程和面向过程编程又不一样。其实这些范式和模式都不过是思维的一种
 提炼，没有谁对谁错，只有用对了场景，才能发挥最大的效益。
